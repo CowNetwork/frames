@@ -1,6 +1,6 @@
 package network.cow.frames.resource.image
 
-import dev.volix.rewinside.odyssey.common.frames.helper.getTile
+import network.cow.frames.helper.getTile
 import java.awt.Dimension
 import java.awt.Point
 import java.awt.image.BufferedImage

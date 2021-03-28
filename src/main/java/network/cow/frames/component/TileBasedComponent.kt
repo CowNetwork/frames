@@ -1,7 +1,7 @@
 package network.cow.frames.component
 
-import dev.volix.rewinside.odyssey.common.frames.helper.tiled
-import dev.volix.rewinside.odyssey.common.frames.helper.untiled
+import network.cow.frames.helper.tiled
+import network.cow.frames.helper.untiled
 import java.awt.Dimension
 import java.awt.Point
 

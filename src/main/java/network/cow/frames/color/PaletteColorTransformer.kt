@@ -1,6 +1,6 @@
 package network.cow.frames.color
 
-import dev.volix.rewinside.odyssey.common.frames.helper.distanceTo
+import network.cow.frames.helper.distanceTo
 import java.awt.Color
 import java.awt.Rectangle
 import java.awt.image.BufferedImage

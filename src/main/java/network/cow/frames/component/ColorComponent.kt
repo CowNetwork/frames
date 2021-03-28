@@ -1,6 +1,6 @@
 package network.cow.frames.component
 
-import dev.volix.rewinside.odyssey.common.frames.helper.fillRect
+import network.cow.frames.helper.fillRect
 import java.awt.Color
 import java.awt.Dimension
 import java.awt.Graphics2D

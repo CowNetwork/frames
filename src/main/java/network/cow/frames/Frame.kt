@@ -1,10 +1,10 @@
 package network.cow.frames
 
-import dev.volix.rewinside.odyssey.common.frames.component.Component
-import dev.volix.rewinside.odyssey.common.frames.helper.combineWith
-import dev.volix.rewinside.odyssey.common.frames.helper.div
-import dev.volix.rewinside.odyssey.common.frames.color.ColorTransformer
-import dev.volix.rewinside.odyssey.common.frames.color.DefaultColorTransformer
+import network.cow.frames.component.Component
+import network.cow.frames.helper.combineWith
+import network.cow.frames.helper.div
+import network.cow.frames.color.ColorTransformer
+import network.cow.frames.color.DefaultColorTransformer
 import java.awt.Dimension
 import java.awt.Graphics2D
 import java.awt.Rectangle

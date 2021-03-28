@@ -1,12 +1,12 @@
 package network.cow.frames.component
 
-import dev.volix.rewinside.odyssey.common.frames.alignment.Alignment
-import dev.volix.rewinside.odyssey.common.frames.alignment.HorizontalAlignment
-import dev.volix.rewinside.odyssey.common.frames.alignment.VerticalAlignment
-import dev.volix.rewinside.odyssey.common.frames.helper.component1
-import dev.volix.rewinside.odyssey.common.frames.helper.component2
-import dev.volix.rewinside.odyssey.common.frames.helper.component3
-import dev.volix.rewinside.odyssey.common.frames.helper.component4
+import network.cow.frames.alignment.Alignment
+import network.cow.frames.alignment.HorizontalAlignment
+import network.cow.frames.alignment.VerticalAlignment
+import network.cow.frames.helper.component1
+import network.cow.frames.helper.component2
+import network.cow.frames.helper.component3
+import network.cow.frames.helper.component4
 import java.awt.Color
 import java.awt.Dimension
 import java.awt.Font
