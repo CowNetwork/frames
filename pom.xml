@@ -65,9 +65,9 @@
 
     <distributionManagement>
         <repository>
-            <id>github</id>
-            <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/CowNetwork/frames</url>
+            <id>cow</id>
+            <name>Cow Network Packages</name>
+            <url>https://maven.cow.network/releases</url>
         </repository>
     </distributionManagement>
 
